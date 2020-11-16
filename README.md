@@ -1,0 +1,2 @@
+# sql
+SQl tanfolyam tárolója
